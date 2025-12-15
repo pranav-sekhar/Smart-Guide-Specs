@@ -1,5 +1,5 @@
 # Smart Guide Specs
-Smart Guide Specs is a voice-assisted smart glass for visually impaired users. It uses a small camera attached to the specs to detect objects and actions (like waving, walking etc) and provides real-time voice feedback to guide the user.
+Smart Guide Specs is a voice-assisted smart glass for visually impaired users integrating a camera with YOLO-based object detection (like table,mobile etc) and MediaPipe-based action recognition (like waving, walking etc) to identify surrounding objects and human activities, providing real-time voice feedback for improved navigation, situational awareness and overall independence in daily life. 
 
 ## Features
 - Object detection using YOLO deep learning model
