@@ -13,3 +13,6 @@ Smart Guide Specs is a voice-assisted smart glass for visually impaired users in
 - MediaPipe (Action Detection)  
 - OpenCV  
 - Text-to-Speech
+
+## Prototype
+![Smart Specs Prototype](images/smart_specs.jpg)
