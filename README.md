@@ -15,4 +15,4 @@ Smart Guide Specs is a voice-assisted smart glass for visually impaired users in
 - Text-to-Speech
 
 ## Prototype
-![Smart Specs Prototype](Smart-Specs-Image.jpg)
+![Smart Specs Prototype](Smart-Specs-Image.png)
